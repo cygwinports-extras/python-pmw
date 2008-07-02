@@ -1,0 +1,8 @@
+inherit distutils
+
+DESCRIPTION="Python Tkinter megawidgets library"
+HOMEPAGE="http://pmw.sourceforge.net/"
+SRC_URI="mirror://sourceforge/pmw/Pmw.${PV}.tar.gz"
+SRC_DIR="Pmw.${PV}/src"
+
+DOCS="Pmw/README"
